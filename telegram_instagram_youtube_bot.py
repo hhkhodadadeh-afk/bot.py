@@ -5,7 +5,7 @@ from yt_dlp import YoutubeDL
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
 
-TOKEN = os.getenv("TELEGRAM_TOKEN")
+TOKEN = os.getenv("8338273521:AAEJYhS3fLHG-qSM4LZh-na3xa42cJN-Ufk")
 
 # پشتیبانی کیفیت‌ها
 VALID_QUALITIES = ["144", "240", "360", "720", "1080"]
